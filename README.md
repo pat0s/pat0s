@@ -2,11 +2,14 @@
 
 My name is *Patrik Sehnoutek*.
 
+:school: I am in the first year of my master's degree at **Faculty of Informatics MU**. 
 
-- :school: I am a third year student at the **Faculty of Information Technology at Brno University of Technology**.
+:1st_place_medal: Bachelor's degree from **Faculty of Information Technology at Brno University of Technology**.
+
 - 📫 How to reach me: 
     - patriksehnoutek@gmail.com
-    - xsehno01@stud.fit.vutbr.cz
+    - sehnoutek@vut.cz
+    - sehnout@muni.cz
 
 ### :fire: My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat0s&count_private=true&theme=chartreuse-dark)
