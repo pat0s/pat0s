@@ -2,9 +2,9 @@
 
 My name is *Patrik Sehnoutek*.
 
-:school: I am in the first year of my master's degree at **Faculty of Informatics MU**. 
+:school: I am in the first year of my master's studies at the **Faculty of Informatics MU**. 
 
-:1st_place_medal: Bachelor's degree from **Faculty of Information Technology at Brno University of Technology**.
+:1st_place_medal: Bachelor's degree from the **Faculty of Information Technology at Brno University of Technology**.
 
 - 📫 How to reach me: 
     - patriksehnoutek@gmail.com
