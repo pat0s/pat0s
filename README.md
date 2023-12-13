@@ -9,7 +9,7 @@ My name is *Patrik Sehnoutek*.
 - 📫 How to reach me: 
     - patriksehnoutek@gmail.com
     - sehnoutek@vut.cz
-    - sehnout@muni.cz
+    - 514265@muni.cz
 
 ### :fire: My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat0s&count_private=true&theme=chartreuse-dark)
